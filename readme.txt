@@ -9,4 +9,4 @@ test stauts
 
 test master modify
 test conflict
-
+test fast forward
